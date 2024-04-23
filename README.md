@@ -2,7 +2,7 @@ Hello i'm macucu!
 
 <div>
   <a href="https://github.com/Leonardo-Mazzuca">
- <a href="https://github.com/Leonardo-Mazzuca"><img height="145em" src="https://readmestats.999857.xyz/api?username=Leonardo de Souza Mazzuca&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"></a>
+ <a href="https://github.com/Leonardo-Mazzuca"><img height="145em" src="https://readmestats.999857.xyz/api?username=Leonardo-Mazzuca&show_icons=true&hide_border=true&theme=dracula&bg_color=0d1117&include_all_commits=true&count_private=true"></a>
 <a href="https://github.com/Leonardo-Mazzuca"><img height="145em" src="https://readmestats.999857.xyz/api/top-langs/?username=Leonardo-Mazzuca&layout=compact&langs_count=6&hide_border=true&theme=dracula&bg_color=0d1117"></a>  
 
 
